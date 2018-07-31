@@ -1,0 +1,15 @@
+{
+  "name": "netmee/data-health",
+  "description": "date client",
+  "minimum-stability": "dev",
+  "license": "GPL v3",
+  "authors": [
+    {
+      "name": "Nicolas Krzyzanowski",
+      "email": "nk@netmee.com"
+    }
+  ],
+  "require": {
+    "league/oauth2-client": "2.3.0"
+  }
+}
